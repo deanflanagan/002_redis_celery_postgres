@@ -2,7 +2,7 @@
 
 Three concepts a good consumer facing API should include are caching, latency and persistence. In this project we add all three to our math app. 
 
-TODO use draw.io here for diagram
+![Redis Celery Postgres Architecture](images/redis_celery_pg.png)
 
 - [How it works](#how-it-works)
     - [Prerequisites](#prerequisites)
